@@ -29,6 +29,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "whatsapp"]
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -42,7 +43,7 @@ params:
 
   label:
     text: "Charandeep Kapoor"
-    icon: "images/coding.png"
+    icon: "images/dp.png"
     iconHeight: 35
 
   # profile-mode
@@ -146,3 +147,12 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+services:
+  disqus:
+    shortname: seo-with-charan
