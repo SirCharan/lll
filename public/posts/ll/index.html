@@ -223,16 +223,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script>
 
 <script>
-    const API_KEY = 'dn10OrmcPVhsdJiBWNhxHbS7wXeTe1';
-    const API_SECRET = 'OGIHYBDlNJtnwrNAGM5ZCM4InxqIIAKf9G7R8qJzZhKEr9JcCbUpYZWcoahj';
+    const API_KEY = 'a207900b7693435a8fa9230a38195d';
+    const API_SECRET = '7b6f39dcf660ec1c7c664f612c60410a2bd0c258416b498bf0311f94228f';
     const domain = 'https://cdn.devnet.deltaex.org';
     const domain_prod = 'https://api.delta.exchange';
-    const API_KEY_PROD = 'dn10OrmcPVhsdJiBWNhxHbS7wXeTe1';
-    const API_SECRET_PROD = 'OGIHYBDlNJtnwrNAGM5ZCM4InxqIIAKf9G7R8qJzZhKEr9JcCbUpYZWcoahj';
-    const user_id = 32473258;
+    const API_KEY_PROD = 'a207900b7693435a8fa9230a38195d';
+    const API_SECRET_PROD = '7b6f39dcf660ec1c7c664f612c60410a2bd0c258416b498bf0311f94228f';
+    const user_id = 55500546;
 
     if (domain === domain_prod) {
-
         API_KEY = API_KEY_PROD;
         API_SECRET = API_SECRET_PROD;
     }
@@ -286,9 +285,9 @@ function getTimeStamp() {
         const data = await response.json();
         const balanceElement = document.getElementById('balance');
         if (balanceElement) {
-            balanceElement.innerText = `${JSON.stringify(data)}`;
+            balanceElement.innerText = `Wallet Balance: ${JSON.stringify(data)}`;
         }
-        return data;
+        
     }
 
     async function getWalletTransactions() {
@@ -305,8 +304,8 @@ function getTimeStamp() {
         };
         const response = await fetch(url, { headers });
         const data = await response.json();
-        console.log(data);
-        return data;
+        
+        
     }
 
     async function downloadTransactionsToDataframe() {
