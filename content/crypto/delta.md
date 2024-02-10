@@ -39,5 +39,3 @@ editPost:
 
 {{< balance >}}
 {{< positions >}}
-
-{{< comments >}}
