@@ -60,7 +60,8 @@ params:
         url: crypto
       - name: Stock Market
         url: stock
-
+      - name: Basics of Options
+        url: options
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
