@@ -1,7 +1,7 @@
 ---
 title: "Bear Put Spread"
 # date: 2020-09-15T11:30:03+00:00
-weight: 4
+weight: 11
 # aliases: ["/first"]
 tags: ["option strategies"]
 author: "Me"

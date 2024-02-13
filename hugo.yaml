@@ -56,7 +56,7 @@ params:
     imageHeight: 250
     imageTitle: "This is me!"
     buttons:
-      - name: Crypto
+      - name: Basics of Crypto
         url: crypto
       - name: Stock Market
         url: stock

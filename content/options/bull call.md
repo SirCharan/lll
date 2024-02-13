@@ -1,7 +1,7 @@
 ---
 title: "Bull Call Spread"
 date: 2020-09-15T11:30:03+00:00
-weight: 1
+weight: 9
 # aliases: ["/first"]
 tags: ["option strategies"]
 author: "Me"
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: true
 description: "Mastering Bull Call Spreads in Crypto Markets: A Comprehensive Guide"
-canonicalURL: "https://canonical.url/to/page"
+# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
