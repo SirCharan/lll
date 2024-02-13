@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//charandeepkapoor.com/option-strategies/bull-call/</loc>
+    <loc>//charandeepkapoor.com/options/bull-call/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/options/call/</loc>
@@ -14,7 +14,7 @@
     <loc>//charandeepkapoor.com/crypto/one/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/bull-put/</loc>
+    <loc>//charandeepkapoor.com/options/bull-put/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/options/put/</loc>
@@ -23,7 +23,7 @@
     <loc>//charandeepkapoor.com/crypto/two/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/bear-call/</loc>
+    <loc>//charandeepkapoor.com/options/bear-call/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/options/jargons/</loc>
@@ -35,12 +35,12 @@
     <loc>//charandeepkapoor.com/options/summary/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/bear-put/</loc>
+    <loc>//charandeepkapoor.com/options/bear-put/</loc>
   </url><url>
     <loc>//charandeepkapoor.com/crypto/four/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/long-straddle/</loc>
+    <loc>//charandeepkapoor.com/options/long-straddle/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/options/itmotm/</loc>
@@ -49,7 +49,7 @@
     <loc>//charandeepkapoor.com/crypto/five/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/short-straddle/</loc>
+    <loc>//charandeepkapoor.com/options/short-straddle/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/options/delta/</loc>
@@ -80,9 +80,6 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/tags/option-strategies/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>//charandeepkapoor.com/option-strategies/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>//charandeepkapoor.com/tags/options/</loc>
